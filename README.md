@@ -13,31 +13,32 @@
 
 ## Introduzione
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Questa raccolta è stata creata con lo scopo di aiutare gli sviluppatori a padroneggiare al massimo le proprie conoscenze di JavaScript: è una guida per continuare ad imparare. La raccolta parte da un articolo scritto da [Stephen Curtis](https://twitter.com/stephenthecurt) che potete [leggere qui](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1). 
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Indicata da GitHub come [uno dei progetti open source top del 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Community
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Sentiti libero di inviare una PR per aggiungere un link a risorse o recensioni di cui sei a conoscenza. Se vuoi tradurre il repo nella tua lingua sentiti libero di farlo.
 
-All the translations for this repo will be listed below:
+Tutte le traduzioni verranno elencate qui sotto:
 
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
+- [Cinese](https://github.com/stephentian/33-js-concepts) — Re Tian
+- [Portoghese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [Coreano](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
+- [Spagnolo](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
+- [Turco](https://github.com/ilker0/33-js-concepts) — İlker Demir
+- [Russo](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
 - [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
+- [Polacco](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+- [Persiano](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+- [Indonesiano](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Francese](https://github.com/robinmetral/33-concepts-js) — Robin Métral
 - [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
-- [German](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Greco](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [Giapponese](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Tedesco](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Italiano](https://github.com/FrancescoGd/33-js-concepts) - Francesco Giordano
 
 
 ---
