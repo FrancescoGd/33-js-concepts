@@ -13,13 +13,13 @@
 
 ## Introduzione
 
-Questa raccolta è stata creata con lo scopo di aiutare gli sviluppatori a padroneggiare al massimo le proprie conoscenze di JavaScript: è una guida per continuare ad imparare. La raccolta parte da un articolo scritto da [Stephen Curtis](https://twitter.com/stephenthecurt) che potete [leggere qui](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1). 
+Questa raccolta è stata creata con lo scopo di aiutare gli sviluppatori a padroneggiare al massimo le proprie conoscenze di JavaScript: è una guida per continuare ad imparare. La raccolta ha preso spunto da un articolo scritto da [Stephen Curtis](https://twitter.com/stephenthecurt) che potete [leggere qui](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1). 
 
 **🚀 Indicata da GitHub come [uno dei progetti open source top del 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Community
 
-Sentiti libero di inviare una PR per aggiungere un link a risorse o recensioni di cui sei a conoscenza. Se vuoi tradurre il repo nella tua lingua sentiti libero di farlo.
+Se sei a conoscenza di risorse o recensioni utili inviale aprendo una PR. Se vuoi tradurre il repo nella tua lingua sentiti libero di farlo.
 
 Tutte le traduzioni verranno elencate qui sotto:
 
