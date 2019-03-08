@@ -17,6 +17,11 @@ Questa raccolta è stata creata con lo scopo di aiutare gli sviluppatori a padro
 
 **🚀 Indicato da GitHub come [uno dei progetti open source top del 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
+**🇮🇹 Note sulla versione Italiana:**
+
+* alcuni termini ho preferito lasciarli in inglese, sia perché hanno più senso (ad esempio "Clean Code") sia - a volte - per una questione di gusto personale: se pensi che sia sbagliato, segnalalo tramte una Issue o direttamente con una PR
+* tutte le risorse della guida sono in inglese, se vuoi aggiungerne qualcuna in italiano segnala tramite una Issue o una PR
+
 ## Community
 
 Se sei a conoscenza di risorse o recensioni utili inviale aprendo una PR. Se vuoi tradurre il repo nella tua lingua sentiti libero di farlo.
