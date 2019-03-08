@@ -15,7 +15,7 @@
 
 Questa raccolta è stata creata con lo scopo di aiutare gli sviluppatori a padroneggiare al massimo le proprie conoscenze di JavaScript: è una guida per continuare ad imparare. La raccolta ha preso spunto da un articolo scritto da [Stephen Curtis](https://twitter.com/stephenthecurt) che puoi [leggere qui](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1). 
 
-**🚀 Indicata da GitHub come [uno dei progetti open source top del 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Indicato da GitHub come [uno dei progetti open source top del 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Community
 
@@ -43,7 +43,7 @@ Tutte le traduzioni verranno elencate qui sotto:
 
 ---
 
-## Table of Contents
+## Indice
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
