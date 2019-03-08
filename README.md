@@ -45,38 +45,38 @@ Tutte le traduzioni verranno elencate qui sotto:
 
 ## Indice
 
-1. **[Call Stack](#1-call-stack)**
-2. **[Primitive Types](#2-primitive-types)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
+1. **[Stack delle Chiamate](#1-call-stack)**
+2. **[Tipi Primitivi](#2-primitive-types)**
+3. **[Value Types e Reference Types](#3-value-types-and-reference-types)**
 4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
-6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
-7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
+6. **[Function Scope, Block Scope e Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
+7. **[Espressioni vs Statement](#7-expression-vs-statement)**
+8. **[IIFE, Moduli and Namespace](#8-iife-modules-and-namespaces)**
+9. **[Coda dei Messaggi e Loop degli Eventi](#9-message-queue-and-event-loop)**
 10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
 11. **[JavaScript Engines](#11-javascript-engines)**
-12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
-13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
-14. **[Factories and Classes](#14-factories-and-classes)**
-15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
-16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
-17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
-18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
+12. **[Operatori Bitwise, Type Arrays e Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
+13. **[DOM e Layout Trees](#13-dom-and-layout-trees)**
+14. **[Factories e Classi](#14-factories-and-classes)**
+15. **[this, call, apply e bind](#15-this-call-apply-and-bind)**
+16. **[new, Constructor, instanceof e Instances](#16-new-constructor-instanceof-and-instances)**
+17. **[Prototype Inheritance e Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
+18. **[Object.create e Object.assign](#18-objectcreate-and-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
-20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
+20. **[Pure Functions, Side Effects e State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
 21. **[Closures](#21-closures)**
 22. **[High Order Functions](#22-high-order-functions)**
-23. **[Recursion](#23-recursion)**
-24. **[Collections and Generators](#24-collections-and-generators)**
+23. **[Ricorsione](#23-recursion)**
+24. **[Collections e Generators](#24-collections-and-generators)**
 25. **[Promises](#25-promises)**
 26. **[async/await](#26-asyncawait)**
-27. **[Data Structures](#27-data-structures)**
-28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
-29. **[Algorithms](#29-algorithms)**
-30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
+27. **[Strutture Dati](#27-data-structures)**
+28. **[Operazioni Onerose e Notazione Big-O](#28-expensive-operation-and-big-o-notation)**
+29. **[Algoritmi](#29-algorithms)**
+30. **[Ereditarietà, Polimorfismo and Riuso del Codice](#30-inheritance-polymorphism-and-code-reuse)**
 31. **[Design Patterns](#31-design-patterns)**
-32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
+32. **[Partial Applications, Currying, Compose e Pipe](#32-partial-applications-currying-compose-and-pipe)**
 33. **[Clean Code](#33-clean-code)**
 
 
