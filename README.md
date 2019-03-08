@@ -19,8 +19,8 @@ Questa raccolta è stata creata con lo scopo di aiutare gli sviluppatori a padro
 
 **🇮🇹 Note sulla versione Italiana:**
 
-* alcuni termini ho preferito lasciarli in inglese, sia perché hanno più senso (ad esempio "Clean Code") sia - a volte - per una questione di gusto personale: se pensi che sia sbagliato, segnalalo tramte una Issue o direttamente con una PR
-* tutte le risorse della guida sono in inglese, se vuoi aggiungerne qualcuna in italiano segnala tramite una Issue o una PR
+* alcuni termini ho preferito lasciarli in inglese, sia perché hanno più senso (ad esempio "Clean Code") sia - a volte - per una questione di gusto personale: se pensi che sia sbagliato, segnalalo tramite una PR
+* tutte le risorse della guida sono in inglese, se vuoi aggiungerne qualcuna in italiano inviala tramite una PR
 
 ## Community
 
